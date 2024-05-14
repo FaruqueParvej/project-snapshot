@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import LogoSvg from "../public/logo.svg";
+import LogoSvg from "./logo.svg";
 export default function Logo() {
   return (
     <div>
